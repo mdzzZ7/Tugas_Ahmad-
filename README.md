@@ -2,7 +2,7 @@
 
 Aplikasi manajemen stok gudang digital berbasis web yang interaktif, responsif, dan aman.
 
-## ✨ Fitur Utama
+##  Fitur Utama
 * **Autentikasi Aman:** Login admin menggunakan PHP Session dan database terenkripsi **MD5**.
 * **CRUD & Multiple Upload:** Fitur kelola data barang yang mendukung upload banyak foto sekaligus.
 * **Live Search:** Pencarian barang *real-time* menggunakan JavaScript DOM (tanpa membebani database).
@@ -17,4 +17,4 @@ Aplikasi manajemen stok gudang digital berbasis web yang interaktif, responsif, 
 * **Password:** `admin123`
 
 ---
-**Created by:** [Nama Lo] | NIM: [NIM Lo]
+**Created by:** Ahmad Yusuf A | NIM: 2430511042
